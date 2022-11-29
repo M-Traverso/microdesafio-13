@@ -1,0 +1,1 @@
+console.log("Obejeto 1");
