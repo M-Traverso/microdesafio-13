@@ -19,4 +19,10 @@ let deportista = {
   console.log(`Deportista experiencia: ${deportista.experiencia}`);
 
   console.log("Hola");
+<<<<<<< HEAD
   console.log("chau");
+=======
+
+  console.log('Esto es una modificacion de Manu');
+  
+>>>>>>> 18ff0c87c618696dfc622cb5115a50aea824f2d2
